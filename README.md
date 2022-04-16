@@ -8,6 +8,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Pyprese
 ```bash
 pip install pypresence
 ```
+## Code
+Get The Code For [RPC](https://github.com/JaswanthRemiel/YoutubeDISCORD/blob/main/RPC%20Discord%20YT%231.py) Here
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
