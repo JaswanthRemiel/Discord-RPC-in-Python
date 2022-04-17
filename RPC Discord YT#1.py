@@ -1,7 +1,7 @@
 from pypresence import Presence
 import time
 start = int(time.time())
-client_id = "964552321113669722"  
+client_id = "#yourCLIENTidHere" #enter your client id here 
 RPC = Presence(client_id)
 RPC.connect()
 while True: #infinite loop
